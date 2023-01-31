@@ -1,0 +1,29 @@
+POST http://localhost:8080/course-1/employee/login
+
+{ "email" : "jasvin.james@iiitb.ac.in",
+  "password" : "1234"
+}
+
+<><> 2022-11-28T022448.404.html
+ 2022-11-28T022404.404.html
+
+<> 2022-11-28T022631.404.html
+
+###
+
+POST http://localhost:8080/course-1/employee/login
+
+{ "email" : "jasvin.james@iiitb.ac.in",
+  "password" : "1234"
+}
+
+<> 2022-11-28T022448.404.html
+
+###
+
+POST http://localhost:8080/course-1/employee/login
+
+<> 2022-11-28T022404.404.html
+
+###
+
